@@ -1,3 +1,4 @@
+[PDF Download](kai_neuhaus_CV.pdf)
 Kai Neuhaus
 PhD, BSc, Dipl.-Ing.  
 ## Postdoctoral Fellow  Optical Coherence Tomography, Biomedical Imaging
@@ -87,5 +88,7 @@ Fluent for academic project preparations
 	* Zemax • SQL • Git • SVN • Emacs • Windows • Linux • MacOS • FreeCAD  
 * Familiar:  Rust • Julia
 * Software quality testing methodologies, Processing Repeatability Methodologies
+
+[PDF Download](kai_neuhaus_CV.pdf)
 
 
