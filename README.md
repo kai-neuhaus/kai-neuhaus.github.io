@@ -1,8 +1,8 @@
 [PDF Download](kai_neuhaus_CV.pdf)
 Kai Neuhaus
 PhD, BSc, Dipl.-Ing.  
-## Postdoctoral Fellow  Optical Coherence Tomography, Biomedical Imaging
-[Coollab](https://www.coollab.net/current-personnel) | [Linkedin](https://www.linkedin.com/in/kaineuhaus/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=DoSInWwAAAAJ) | [Researchgate](https://www.researchgate.net/profile/Kai-Neuhaus) | [Orcid](https://orcid.org/0000-0003-0779-0212)
+## Postdoctoral Fellow,  Optical Coherence Tomography, Biomedical Imaging
+[Coollab](https://www.coollab.net/current-personnel) | [Linkedin](https://www.linkedin.com/in/kaineuhaus/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=DoSInWwAAAAJ) | [GitHub](https://github.com/kai-neuhaus) | [Researchgate](https://www.researchgate.net/profile/Kai-Neuhaus) | [Orcid](https://orcid.org/0000-0003-0779-0212)
 # Experience
 
 ## OREGON HEALTH & SCIENCE UNIVERSITY
@@ -90,5 +90,5 @@ Fluent for academic project preparations
 * Software quality testing methodologies, Processing Repeatability Methodologies
 
 [PDF Download](kai_neuhaus_CV.pdf)
-
+[GitHub](https://github.com/kai-neuhaus)
 
